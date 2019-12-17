@@ -1,0 +1,4 @@
+#ignore filetypes
+*.tif
+*.txt
+*.sh

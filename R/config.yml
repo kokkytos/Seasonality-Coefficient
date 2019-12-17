@@ -1,0 +1,8 @@
+default:
+  DATA_DIR: data
+  OUTPUT_DIR: output
+  TIFFS_DIR: tiffs
+  ADMIN_UNITS_DIR: admin_units
+  BASE_MONTH: 3
+  LIST_RASTER_PATTERN: '*masked.tif_clipped.tif$'
+  LIST_VECTOR_PATTERN: "*.shp|*.gpkg"
